@@ -1,0 +1,11 @@
+EXPLICIT CURSOR
+Employee(eno,ename,dno, salary,job)
+1-Display details of top five highest paid employees.
+2-Increment salaries of the employees according to their job.
+
+TRIGGERS
+3-create trigger which will get triggered on insert ,update and delete in employee table.
+
+Student(Sid,sname,deptname)
+Department(deptname)
+4-create a trigger to remove all students of department once department is deleted.
