@@ -1,0 +1,6 @@
+1-Write procedure to check whether a number is prime or not.
+2-write a function to check whether a number is prime or not.
+3- write procedure to check whether a string is palindrome or not.
+4-write function to check whether string is palindrome or not.
+5- create package to find area and circumference of circle with given radius.
+6-create a trigger to delete tuple from table A even if foreign key violation is there by first deleting tuples from table B.
