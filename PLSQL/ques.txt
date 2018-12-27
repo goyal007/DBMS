@@ -1,0 +1,15 @@
+1-
+Create a procedure to find factorial of number provided by user.
+2-
+Procedure for reversing a number provided by user.
+
+For que 3,4,5
+Employee(Eno,ename,dno,salary,job)
+
+3-
+Delete tuples for employee where eid is greater than 10 and display number of rows affected.
+4-
+Update record in table set salary =50000 where salary is greater than 20000 and less than 30000
+And display number of rows affected.
+5-
+Display the employee number and number of rows selected having salary equal to 17000.
