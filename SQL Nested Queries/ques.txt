@@ -1,0 +1,9 @@
+Schema : employees(employee_id,firstname,lastname,email,phoneno,jobid,managerid,salary,commissionpercent,deptid);
+Insert data with employee id from 155 to 170.
+
+1) Write a query to display the name ( first name and last name ) for those employees who gets more salary than the employee whose ID is 163.
+2) Write a query to display the name ( first name and last name ), salary, department id, job id for those employees who works in the same designation as the employee works whose id is 169.
+3) Write a query to display the name ( first name and last name ), salary, department id for those employees who earn such amount of salary which is the smallest salary of any of the departments. 
+4) Write a query to display the employee id, employee name (first name and last name ) for all employees who earn more than the average salary. 
+5) Write a query to display all the information of an employee whose reporting person id is 161 and 162 respectively.
+6) Write a query to display all the information of the employees whose salary is within the range of smallest salary and 2500.
