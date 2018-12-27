@@ -1,0 +1,18 @@
+Schema : customer(ID,NAME,AGE,ADDRESS,SALARY);
+Question 1: Find the total amount of the salary on each customer;
+Question 2: Find the list of customers in chronological order by the NAME and the SALARY 
+
+Schema :
+Salesman (id,name,city,commission);
+Customer(srno,name,city,grade,sales_id);
+Orders(no,amount,date,cust_id,sales_id);
+Here sales_id is a foreign key and refers to primary key "id" in Salesman table.
+cust_id is a foreign key and refers to primary key "srno" in Customer table.
+no is a primary key in Orders table.
+Question 1: Find the total no of orders served by all the salesman belonging to the same city.
+Question 2: Write a SQL statement to find the details of commission the salesman gets provided that his commission is more than or equal to the average 
+commission in the city. 
+
+Schema: bookstore(bookid,year,month,volume,author,price);
+Question 1 : Calculate the total number of books sold each month. Order your results chronologically.
+Question 2: Write a query that calculates the lowest and highest prices that store achieved each month.
