@@ -1,0 +1,7 @@
+Flights(flno,from,to,distance,departs,arrives,price)
+Aircraft(aid,aname,cruisingrange)
+Certified(eid,aid)
+Employee (eid,ename,salary)
+1-find the names of pilots certified for some Boeing aircraft.
+2-print name and salary of every non pilot whose salary is more than average salary of pilots.
+3-print names of employees who are certified only on aircrafts with cruisingrange longer than 1000 miles,but on at least 2 such aircrafts.
